@@ -1,0 +1,1 @@
+started trying to run on device at ~8:10pm and at 8:30pm its still 'processing symbol files'
